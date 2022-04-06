@@ -10,7 +10,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/securecookie"
-	"github.com/skynet/go-sessions"
+	"github.com/skynet0590/sessions"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/skynet/go-sessions"
-	"github.com/skynet/go-sessions/sessiondb/redis/service"
+	"github.com/skynet0590/sessions"
+	"github.com/skynet0590/sessions/sessiondb/redis/service"
 )
 
 // Database the redis back-end session database for the sessions.
